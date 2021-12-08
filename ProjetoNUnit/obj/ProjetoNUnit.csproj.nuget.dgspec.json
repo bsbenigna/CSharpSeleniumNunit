@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\workspace\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\ProjetoNUnit.csproj": {}
+    "c:\\Users\\benignaBernardes\\Documents\\TreinamentoWeb Selenium C#\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\ProjetoNUnit.csproj": {}
   },
   "projects": {
-    "c:\\workspace\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\ProjetoNUnit.csproj": {
+    "c:\\Users\\benignaBernardes\\Documents\\TreinamentoWeb Selenium C#\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\ProjetoNUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\workspace\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\ProjetoNUnit.csproj",
+        "projectUniqueName": "c:\\Users\\benignaBernardes\\Documents\\TreinamentoWeb Selenium C#\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\ProjetoNUnit.csproj",
         "projectName": "ProjetoNUnit",
-        "projectPath": "c:\\workspace\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\ProjetoNUnit.csproj",
+        "projectPath": "c:\\Users\\benignaBernardes\\Documents\\TreinamentoWeb Selenium C#\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\ProjetoNUnit.csproj",
         "packagesPath": "C:\\Users\\benignaBernardes\\.nuget\\packages\\",
-        "outputPath": "c:\\workspace\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\obj\\",
+        "outputPath": "c:\\Users\\benignaBernardes\\Documents\\TreinamentoWeb Selenium C#\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

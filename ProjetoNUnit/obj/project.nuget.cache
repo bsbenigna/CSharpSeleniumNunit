@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "09smUr7oK62k9TChrft6BFJznJ78plzEL7Ey5hbsrZ3ndh5UxAfP2O0C7SDSgr/1sOOs5W/QQBrrTrU00Z1qfQ==",
+  "dgSpecHash": "qezN67bnM8nPyhX9IIkTZ+58ONfX0TDdYDPno5OitmxKTEiKoIRGNxs1JSODMAqoeFBXo1Ks36uB8eYj+9T2Bg==",
   "success": true,
-  "projectFilePath": "c:\\workspace\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\ProjetoNUnit.csproj",
+  "projectFilePath": "c:\\Users\\benignaBernardes\\Documents\\TreinamentoWeb Selenium C#\\Base2Automacao\\TreinamentoWebBase2\\ProjetoNUnit\\ProjetoNUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\benignaBernardes\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\benignaBernardes\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
